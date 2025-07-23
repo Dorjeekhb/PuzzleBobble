@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Dorjee\\Documents\\GitHub\\MOVILES-G09-\\androidgame\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Dorjee\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Dorjee\\Documents\\GitHub\\MOVILES-G09-\\androidgame\\.cxx\\Debug\\62104j2e\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Dorjee\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Dorjee\\Documents\\GitHub\\MOVILES-G09-\\androidgame\\.cxx\\Debug\\62104j2e\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "androidgame::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "androidgame",
+      "output": "C:\\Users\\Dorjee\\Documents\\GitHub\\MOVILES-G09-\\androidgame\\build\\intermediates\\cxx\\Debug\\62104j2e\\obj\\x86_64\\libandroidgame.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Users\\Dorjee\\AppData\\Local\\Android\\Sdk\\ndk\\28.0.12433566\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\Dorjee\\AppData\\Local\\Android\\Sdk\\ndk\\28.0.12433566\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

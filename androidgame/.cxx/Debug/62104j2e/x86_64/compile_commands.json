@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/Dorjee/Documents/GitHub/MOVILES-G09-/androidgame/.cxx/Debug/62104j2e/x86_64",
+  "command": "C:\\Users\\Dorjee\\AppData\\Local\\Android\\Sdk\\ndk\\28.0.12433566\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android30 --sysroot=C:/Users/Dorjee/AppData/Local/Android/Sdk/ndk/28.0.12433566/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dandroidgame_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\androidgame.dir\\androidgame.cpp.o -c C:\\Users\\Dorjee\\Documents\\GitHub\\MOVILES-G09-\\androidgame\\src\\main\\cpp\\androidgame.cpp",
+  "file": "C:\\Users\\Dorjee\\Documents\\GitHub\\MOVILES-G09-\\androidgame\\src\\main\\cpp\\androidgame.cpp"
+},
+{
+  "directory": "C:/Users/Dorjee/Documents/GitHub/MOVILES-G09-/androidgame/.cxx/Debug/62104j2e/x86_64",
+  "command": "C:\\Users\\Dorjee\\AppData\\Local\\Android\\Sdk\\ndk\\28.0.12433566\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android30 --sysroot=C:/Users/Dorjee/AppData/Local/Android/Sdk/ndk/28.0.12433566/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dandroidgame_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\androidgame.dir\\native_lib.cpp.o -c C:\\Users\\Dorjee\\Documents\\GitHub\\MOVILES-G09-\\androidgame\\src\\main\\cpp\\native_lib.cpp",
+  "file": "C:\\Users\\Dorjee\\Documents\\GitHub\\MOVILES-G09-\\androidgame\\src\\main\\cpp\\native_lib.cpp"
+}
+]

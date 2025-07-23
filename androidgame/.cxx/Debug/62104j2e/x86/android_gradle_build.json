@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/dorjee/Documents/MOVILES-G09-P2/androidgame/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/dorjee/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/dorjee/Documents/MOVILES-G09-P2/androidgame/.cxx/Debug/62104j2e/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/dorjee/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/dorjee/Documents/MOVILES-G09-P2/androidgame/.cxx/Debug/62104j2e/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "androidgame::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "androidgame",
+      "output": "/Users/dorjee/Documents/MOVILES-G09-P2/androidgame/build/intermediates/cxx/Debug/62104j2e/obj/x86/libandroidgame.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/dorjee/Library/Android/sdk/ndk/28.0.12433566/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/dorjee/Library/Android/sdk/ndk/28.0.12433566/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

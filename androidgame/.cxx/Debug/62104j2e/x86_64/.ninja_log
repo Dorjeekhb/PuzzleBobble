@@ -1,0 +1,6 @@
+# ninja log v5
+9	177	7548608672670620	CMakeFiles/androidgame.dir/androidgame.cpp.o	21361d9ff9b09c93
+1	3958	7548608710566966	CMakeFiles/androidgame.dir/native_lib.cpp.o	c3f57466fefc9293
+3966	4153	7548608712075669	C:/Users/Dorjee/Documents/GitHub/MOVILES-G09-/androidgame/build/intermediates/cxx/Debug/62104j2e/obj/x86_64/libandroidgame.so	d1c460a75b6f1598
+133	3453	7555599571913686	CMakeFiles/androidgame.dir/native_lib.cpp.o	c3f57466fefc9293
+3453	3848	7555599575283165	C:/Users/Dorjee/Documents/GitHub/MOVILES-G09-/androidgame/build/intermediates/cxx/Debug/62104j2e/obj/x86_64/libandroidgame.so	d1c460a75b6f1598

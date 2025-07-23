@@ -1,0 +1,3 @@
+C:/Users/Dorjee/Documents/GitHub/MOVILES-G09-/androidgame/.cxx/Debug/62104j2e/x86_64/CMakeFiles/androidgame.dir
+C:/Users/Dorjee/Documents/GitHub/MOVILES-G09-/androidgame/.cxx/Debug/62104j2e/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Dorjee/Documents/GitHub/MOVILES-G09-/androidgame/.cxx/Debug/62104j2e/x86_64/CMakeFiles/rebuild_cache.dir

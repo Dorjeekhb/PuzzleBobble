@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/dorjee/Documents/MOVILES-G09-P2/androidgame/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/dorjee/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/dorjee/Documents/MOVILES-G09-P2/androidgame/.cxx/Debug/62104j2e/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/dorjee/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/dorjee/Documents/MOVILES-G09-P2/androidgame/.cxx/Debug/62104j2e/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "androidgame::@6890427a1f51a3e7e1df": {
+      "artifactName": "androidgame",
+      "abi": "arm64-v8a",
+      "output": "/Users/dorjee/Documents/MOVILES-G09-P2/androidgame/build/intermediates/cxx/Debug/62104j2e/obj/arm64-v8a/libandroidgame.so",
+      "runtimeFiles": []
+    }
+  }
+}

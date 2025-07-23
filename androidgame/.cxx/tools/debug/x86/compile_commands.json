@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/dorjee/Documents/MOVILES-G09-P2/androidgame/.cxx/Debug/62104j2e/x86",
+  "command": "/Users/dorjee/Library/Android/sdk/ndk/28.0.12433566/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android30 --sysroot=/Users/dorjee/Library/Android/sdk/ndk/28.0.12433566/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dandroidgame_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/androidgame.dir/androidgame.cpp.o -c /Users/dorjee/Documents/MOVILES-G09-P2/androidgame/src/main/cpp/androidgame.cpp",
+  "file": "/Users/dorjee/Documents/MOVILES-G09-P2/androidgame/src/main/cpp/androidgame.cpp"
+},
+{
+  "directory": "/Users/dorjee/Documents/MOVILES-G09-P2/androidgame/.cxx/Debug/62104j2e/x86",
+  "command": "/Users/dorjee/Library/Android/sdk/ndk/28.0.12433566/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android30 --sysroot=/Users/dorjee/Library/Android/sdk/ndk/28.0.12433566/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dandroidgame_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/androidgame.dir/native_lib.cpp.o -c /Users/dorjee/Documents/MOVILES-G09-P2/androidgame/src/main/cpp/native_lib.cpp",
+  "file": "/Users/dorjee/Documents/MOVILES-G09-P2/androidgame/src/main/cpp/native_lib.cpp"
+}
+]
